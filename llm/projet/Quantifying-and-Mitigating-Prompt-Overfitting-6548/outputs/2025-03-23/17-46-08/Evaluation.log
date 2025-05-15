@@ -1,9 +1,0 @@
-[2025-03-23 17:46:16,541][lamorel_logger][INFO] - No configuration found for the GLOO timeout, setting it to default: 1800 seconds.
-[2025-03-23 17:46:16,541][lamorel_logger][INFO] - Init rl group for process 1
-[2025-03-23 17:46:16,542][lamorel_logger][INFO] - Init llm group for process 1
-[2025-03-23 17:46:16,544][lamorel_logger][INFO] - Init rl-llm group for process 1
-[2025-03-23 17:46:16,548][lamorel_logger][INFO] - No configuration found for the GLOO timeout, setting it to default: 1800 seconds.
-[2025-03-23 17:46:16,549][lamorel_logger][INFO] - Init rl group for process 0
-[2025-03-23 17:46:16,552][lamorel_logger][INFO] - Init llm group for process 0
-[2025-03-23 17:46:16,552][lamorel_logger][INFO] - Init rl-llm group for process 0
-[2025-03-23 17:46:16,557][lamorel_logger][INFO] - Devices on process 1 (index 0): [0]
